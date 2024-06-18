@@ -1,0 +1,11 @@
+@font-face {
+    font-family: YoungSerif;
+    src: url(/assets/fonts/young-serif/YoungSerif-Regular.ttf) format("truetype");
+    font-size: 400;
+}
+
+@font-face {
+    font-family: Outfit;
+    src: url(/assets/fonts/outfit/static/Outfit-Regular.ttf) format("truetype");
+    font-size: 400 ;
+}
